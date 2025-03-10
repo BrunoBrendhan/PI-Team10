@@ -1,9 +1,17 @@
 # PI-Team10
 
-### Requisitos
-![requisitos](https://github.com/BrunoBrendhan/PI-Team10/blob/main/Requisitos.jpg?raw=true)
+## Requisitos
+### Cadastro geral
+![cadastro geral](https://github.com/BrunoBrendhan/PI-Team10/blob/main/cadastro%20geral.jpg?raw=true)
+### Cadastro de aluno
+![cadastro de aluno](https://github.com/BrunoBrendhan/PI-Team10/blob/main/cadastro%20de%20aluno.jpg?raw=true)
+### Cadastro de fornecedor
+![cadastro de fornecedor](https://github.com/BrunoBrendhan/PI-Team10/blob/main/cadastro%20de%20fornecedor.jpg?raw=true)
+### Cadastro de professor
+![cadastro de professor](https://github.com/BrunoBrendhan/PI-Team10/blob/main/cadastro%20de%20professor.jpg?raw=true)
+### Cadastro de pessoa física
+![cadastro de pessoa física](https://github.com/BrunoBrendhan/PI-Team10/blob/main/cadastro%20pessoa%20f%C3%ADsica.jpg?raw=true)
 ## Prototipação de alto nível
-
 ### Tela de login
 ![tela de login](https://github.com/BrunoBrendhan/PI-Team10/blob/main/login.jpeg?raw=true)
 ### Tela de registro
