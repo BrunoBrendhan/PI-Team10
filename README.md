@@ -1,11 +1,7 @@
 # PI-Team10
 
 ### Requisitos
-
--
--
--
-
+![requisitos](https://github.com/BrunoBrendhan/PI-Team10/blob/main/Requisitos.jpg?raw=true)
 ## Prototipação de alto nível
 
 ### Tela de login
